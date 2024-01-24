@@ -12,6 +12,7 @@
 .topic a{
     color: black;
     text-decoration: none;
+    opacity:500;
 }
 .side_bar h3{
     margin-left: 40px;
