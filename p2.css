@@ -28,3 +28,7 @@
 .main_bar{
     grid-column: 4/9;
 }
+code{
+    background-color:grey;
+    color:white;
+}
